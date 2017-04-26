@@ -13,7 +13,7 @@ namespace Laboratorna1
           
 
            Console.WriteLine("Hello from new_class branch after merge");
-
+            Console.WriteLine("last_branch");
             Console.WriteLine("Hello from new_class third_branch after merge");
 
         }
