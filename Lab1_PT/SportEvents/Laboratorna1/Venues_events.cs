@@ -36,7 +36,7 @@ namespace Laboratorna1
 
         private void venuesBindingNavigator_MouseHover(object sender, EventArgs e)
         {
-            toolTip1.SetToolTip(venuesBindingNavigator,"Навигатор!");
+            toolTip1.SetToolTip(venuesBindingNavigator,"Навигаторрррр!");
         }
 
         private void venuesDataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
