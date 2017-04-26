@@ -1,0 +1,24 @@
+D:\projectsharp\Laboratorna1\Laboratorna1\bin\Debug\Laboratorna1.exe.config
+D:\projectsharp\Laboratorna1\Laboratorna1\bin\Debug\Laboratorna1.exe
+D:\projectsharp\Laboratorna1\Laboratorna1\bin\Debug\Laboratorna1.pdb
+D:\projectsharp\Laboratorna1\Laboratorna1\bin\Debug\MySql.Data.dll
+D:\projectsharp\Laboratorna1\Laboratorna1\obj\Debug\Laboratorna1.csprojResolveAssemblyReference.cache
+D:\projectsharp\Laboratorna1\Laboratorna1\obj\Debug\Laboratorna1.Form1.resources
+D:\projectsharp\Laboratorna1\Laboratorna1\obj\Debug\Laboratorna1.Properties.Resources.resources
+D:\projectsharp\Laboratorna1\Laboratorna1\obj\Debug\Laboratorna1.csproj.GenerateResource.Cache
+D:\projectsharp\Laboratorna1\Laboratorna1\obj\Debug\Laboratorna1.exe
+D:\projectsharp\Laboratorna1\Laboratorna1\obj\Debug\Laboratorna1.pdb
+D:\projectsharp\Laboratorna1\Laboratorna1\obj\Debug\Laboratorna1.events.resources
+D:\projectsharp\Laboratorna1\Laboratorna1\obj\Debug\Laboratorna1.Venues_events.resources
+D:\Разработка ПО\Lab1_PT\SportEvents\Laboratorna1\bin\Debug\Laboratorna1.exe.config
+D:\Разработка ПО\Lab1_PT\SportEvents\Laboratorna1\obj\Debug\Laboratorna1.exe
+D:\Разработка ПО\Lab1_PT\SportEvents\Laboratorna1\obj\Debug\Laboratorna1.pdb
+D:\Разработка ПО\Lab1_PT\SportEvents\Laboratorna1\obj\Debug\Laboratorna1.csprojResolveAssemblyReference.cache
+D:\Разработка ПО\Lab1_PT\SportEvents\Laboratorna1\obj\Debug\Laboratorna1.events.resources
+D:\Разработка ПО\Lab1_PT\SportEvents\Laboratorna1\obj\Debug\Laboratorna1.Form1.resources
+D:\Разработка ПО\Lab1_PT\SportEvents\Laboratorna1\obj\Debug\Laboratorna1.Properties.Resources.resources
+D:\Разработка ПО\Lab1_PT\SportEvents\Laboratorna1\obj\Debug\Laboratorna1.Venues_events.resources
+D:\Разработка ПО\Lab1_PT\SportEvents\Laboratorna1\obj\Debug\Laboratorna1.csproj.GenerateResource.Cache
+D:\Разработка ПО\Lab1_PT\SportEvents\Laboratorna1\bin\Debug\Laboratorna1.exe
+D:\Разработка ПО\Lab1_PT\SportEvents\Laboratorna1\bin\Debug\Laboratorna1.pdb
+D:\Разработка ПО\Lab1_PT\SportEvents\Laboratorna1\bin\Debug\MySql.Data.dll
