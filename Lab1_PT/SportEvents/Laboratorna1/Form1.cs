@@ -103,7 +103,7 @@ namespace Laboratorna1
 
         private void menuStrip1_MouseHover(object sender, EventArgs e)
         {
-            toolTip1.SetToolTip(menuStrip1, "F1 для подсказки");
+            toolTip1.SetToolTip(menuStrip1, "F1 для подсказки!!!!!");
         }
 
         private void countryDataGridView_MouseHover(object sender, EventArgs e)
